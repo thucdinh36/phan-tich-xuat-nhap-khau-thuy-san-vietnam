@@ -38,4 +38,35 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 - **Công cụ khác**: Jupyter Notebook, Git, GitHub
 - **Báo cáo**: Microsoft Word & PowerPoint
 
-## 📁 Cấu trúc thư mục
+Phan_tich_xuat_nhap_khau_thuy_san_VietNam/
+├── data/                      # Thư mục chứa tất cả dữ liệu
+│   ├── raw/                   # Dữ liệu tải về ban đầu (Excel, CSV thô)
+│   └── processed/             # Dữ liệu đã cleaning và xử lý
+│
+├── notebooks/                 # Các file Jupyter Notebook (phân tích từng bước)
+│   ├── 01_data_collection.ipynb     # Thu thập dữ liệu
+│   ├── 02_data_cleaning.ipynb       # Làm sạch dữ liệu (CLO3,4)
+│   ├── 03_eda.ipynb                 # Phân tích khám phá (Exploratory Data Analysis)
+│   ├── 04_visualization.ipynb       # Trực quan hóa
+│   └── 05_forecasting.ipynb         # Xây dựng mô hình dự báo
+│
+├── src/                       # Code Python tái sử dụng (functions)
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── visualization.py
+│   └── modeling.py
+│
+├── reports/                   # Báo cáo, slide và hình ảnh
+│   ├── figures/               # Lưu tất cả biểu đồ, dashboard
+│   ├── final_report.docx
+│   └── presentation.pptx
+│
+├── docs/                      # Tài liệu dự án
+│   ├── de-cuong.docx
+│   ├── tai-lieu-tham-khao.md
+│   └── meeting_notes/
+│
+├── requirements.txt           # Danh sách thư viện Python
+├── README.md
+├── .gitignore
+└── LICENSE
