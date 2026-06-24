@@ -38,35 +38,40 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 - **Công cụ khác**: Jupyter Notebook, Git, GitHub
 - **Báo cáo**: Microsoft Word & PowerPoint
 
+### 📁 Cấu trúc thư mục dự án
+
+Dự án được tổ chức theo cấu trúc chuẩn của một dự án Data Science:
+
+```bash
 Phan_tich_xuat_nhap_khau_thuy_san_VietNam/
-├── data/                      # Thư mục chứa tất cả dữ liệu
-│   ├── raw/                   # Dữ liệu tải về ban đầu (Excel, CSV thô)
-│   └── processed/             # Dữ liệu đã cleaning và xử lý
+├── data/                          # Thư mục chứa toàn bộ dữ liệu
+│   ├── raw/                       # Dữ liệu thô tải về ban đầu (Excel, CSV...)
+│   └── processed/                 # Dữ liệu đã cleaning và xử lý
 │
-├── notebooks/                 # Các file Jupyter Notebook (phân tích từng bước)
-│   ├── 01_data_collection.ipynb     # Thu thập dữ liệu
-│   ├── 02_data_cleaning.ipynb       # Làm sạch dữ liệu (CLO3,4)
-│   ├── 03_eda.ipynb                 # Phân tích khám phá (Exploratory Data Analysis)
-│   ├── 04_visualization.ipynb       # Trực quan hóa
-│   └── 05_forecasting.ipynb         # Xây dựng mô hình dự báo
+├── notebooks/                     # Các Jupyter Notebook phân tích từng bước
+│   ├── 01_data_collection.ipynb   # Thu thập dữ liệu
+│   ├── 02_data_cleaning.ipynb     # Làm sạch dữ liệu (CLO3, CLO4)
+│   ├── 03_eda.ipynb               # Phân tích khám phá dữ liệu
+│   ├── 04_visualization.ipynb     # Trực quan hóa dữ liệu (CLO6)
+│   └── 05_forecasting.ipynb       # Xây dựng mô hình dự báo
 │
-├── src/                       # Code Python tái sử dụng (functions)
+├── src/                           # Code Python tái sử dụng
 │   ├── __init__.py
 │   ├── data_preprocessing.py
 │   ├── visualization.py
 │   └── modeling.py
 │
-├── reports/                   # Báo cáo, slide và hình ảnh
-│   ├── figures/               # Lưu tất cả biểu đồ, dashboard
-│   ├── final_report.docx
-│   └── presentation.pptx
+├── reports/                       # Báo cáo và kết quả trình bày
+│   ├── figures/                   # Lưu tất cả biểu đồ và dashboard
+│   ├── final_report.docx          # Báo cáo Word hoàn chỉnh
+│   └── presentation.pptx          # Slide PowerPoint thuyết trình
 │
-├── docs/                      # Tài liệu dự án
-│   ├── de-cuong.docx
-│   ├── tai-lieu-tham-khao.md
-│   └── meeting_notes/
+├── docs/                          # Tài liệu dự án
+│   ├── de-cuong-du-an.docx        # Đề cương chi tiết
+│   ├── tai-lieu-tham-khao.md      # Danh sách tài liệu tham khảo
+│   └── meeting_notes/             # Biên bản họp nhóm
 │
-├── requirements.txt           # Danh sách thư viện Python
+├── requirements.txt               # Danh sách thư viện Python
 ├── README.md
 ├── .gitignore
 └── LICENSE
