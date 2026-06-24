@@ -18,10 +18,10 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 
 | STT | Họ và tên              | Vai trò                          |
 |-----|------------------------|----------------------------------|
-| 1   | [Tên của bạn]          | Leader & Data Storyteller        |
-| 2   | Minh-Sang1507          | Data Processing & Modeling       |
-| 3   | thetai2376             | Visualization & Dashboard        |
-| 4   | YoungBoiSeeToan        | Report & Documentation           |
+| 1   | Doãn Thúc Định         | Leader & Data Storyteller        |
+| 2   | Diệp Thế Tài           | Data Processing & Modeling       |
+| 3   | Nguyễn Minh Sang       | Visualization & Dashboard        |
+| 4   | Nguyễn Sỹ Toàn         | Report & Documentation           |
 
 ## 🎯 Mục tiêu dự án
 
