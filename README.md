@@ -9,7 +9,7 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📋 Mô tả dự án
+## Mô tả dự án
 
 Đề án tốt nghiệp tập trung phân tích:
 - Xu hướng xuất nhập khẩu thủy sản Việt Nam trong 11 năm (2015-2025)
@@ -17,7 +17,7 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 - Các thị trường xuất khẩu chính (Mỹ, Nhật Bản, Trung Quốc, EU...)
 - Các yếu tố ảnh hưởng và dự báo xu hướng trong tương lai
 
-## 👥 Thành viên nhóm
+## Thành viên nhóm
 
 | STT | Họ và tên              | Vai trò                          |
 |-----|------------------------|----------------------------------|
@@ -26,14 +26,14 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 | 3   | Nguyễn Minh Sang       | Visualization & Dashboard        |
 | 4   | Nguyễn Sỹ Toàn         | Report & Documentation           |
 
-## 🎯 Mục tiêu dự án
+## Mục tiêu dự án
 
 - Hiểu rõ xu hướng tăng trưởng và biến động của ngành thủy sản Việt Nam
 - Xây dựng mô hình dự báo ngắn hạn và trung hạn
 - Đưa ra khuyến nghị chiến lược cho doanh nghiệp và cơ quan quản lý
 - Áp dụng đầy đủ các CLO của môn học (Data Cleaning, Visualization, Storytelling...)
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - **Ngôn ngữ lập trình**: Python 3
 - **Thư viện chính**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Prophet/ARIMA
@@ -41,7 +41,7 @@ Phân tích xu hướng và dự báo thị trường xuất nhập khẩu thủ
 - **Công cụ khác**: Jupyter Notebook, Git, GitHub
 - **Báo cáo**: Microsoft Word & PowerPoint
 
-### 📁 Cấu trúc thư mục dự án
+### Cấu trúc thư mục dự án
 
 Dự án được tổ chức theo cấu trúc chuẩn của một dự án Data Science:
 
