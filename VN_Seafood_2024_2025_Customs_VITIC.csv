@@ -1,0 +1,15 @@
+Year,Flow,Partner,Product_Group,Data_Level,Trade_Value_USD,Trade_Value_Billion_USD,Growth_Rate,Source,Data_Status,Note,Source_URL
+2024,Exports,World,Total Seafood,Total,10040000000,10.04,11.90%,Vietnam Customs,Official/Preliminary,Annual seafood export value 2024 from Vietnam Customs,https://www.customs.gov.vn/index.jsp?pageId=2&aid=209269&cid=25
+2024,Imports,World,Total Seafood,Total,2636094213,2.64,,Asemconnect/VITIC,Calculated,Calculated from 2025 import value and 28.22 percent growth,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Exports,World,Total Seafood,Total,11290000000,11.29,12.41%,Asemconnect/VITIC,Preliminary customs-based data,Annual seafood export value 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Imports,World,Total Seafood,Total,3380000000,3.38,28.22%,Asemconnect/VITIC,Preliminary customs-based data,Annual seafood import value 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2024,Exports,United States,Total Seafood,Export Market,1830000000,1.83,17.60%,Vietnam Customs,Official/Preliminary,Main export market 2024,https://www.customs.gov.vn/index.jsp?pageId=2&aid=209269&cid=25
+2024,Exports,China,Total Seafood,Export Market,1730000000,1.73,29.40%,Vietnam Customs,Official/Preliminary,Main export market 2024,https://www.customs.gov.vn/index.jsp?pageId=2&aid=209269&cid=25
+2024,Exports,Japan,Total Seafood,Export Market,1530000000,1.53,1.10%,Vietnam Customs,Official/Preliminary,Main export market 2024,https://www.customs.gov.vn/index.jsp?pageId=2&aid=209269&cid=25
+2024,Exports,European Union,Total Seafood,Export Market,1040000000,1.04,9.40%,Vietnam Customs,Official/Preliminary,Main export market 2024,https://www.customs.gov.vn/index.jsp?pageId=2&aid=209269&cid=25
+2025,Exports,China,Total Seafood,Export Market,2280000000,2.28,,Asemconnect/VITIC,Preliminary customs-based data,Top export market 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Exports,United States,Total Seafood,Export Market,1910000000,1.91,,Asemconnect/VITIC,Preliminary customs-based data,Top export market 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Exports,Japan,Total Seafood,Export Market,1690000000,1.69,,Asemconnect/VITIC,Preliminary customs-based data,Top export market 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Imports,India,Total Seafood,Import Market,524220000,0.524,,Asemconnect/VITIC,Preliminary customs-based data,Top import market 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Imports,Indonesia,Total Seafood,Import Market,477390000,0.477,,Asemconnect/VITIC,Preliminary customs-based data,Top import market 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
+2025,Imports,Norway,Total Seafood,Import Market,393810000,0.394,,Asemconnect/VITIC,Preliminary customs-based data,Top import market 2025,https://asemconnectvietnam.gov.vn/Default.aspx?ZID1=66&ID1=1&ID8=146942&pagenum=0
