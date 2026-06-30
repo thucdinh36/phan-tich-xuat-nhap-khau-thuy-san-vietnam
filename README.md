@@ -150,7 +150,6 @@ Các file sau xử lý được sử dụng để xây dựng dashboard và phâ
 | Python | Xử lý, làm sạch và phân tích dữ liệu |
 | Pandas | Đọc, xử lý và biến đổi dữ liệu dạng bảng |
 | NumPy | Hỗ trợ tính toán dữ liệu |
-| Matplotlib / Seaborn / Plotly | Trực quan hóa dữ liệu trong quá trình phân tích |
 | Jupyter Notebook | Ghi lại quy trình xử lý và phân tích dữ liệu |
 | Tableau | Xây dựng dashboard trực quan |
 | GitHub | Quản lý mã nguồn và tài liệu dự án |
