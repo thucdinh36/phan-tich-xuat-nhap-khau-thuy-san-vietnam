@@ -32,7 +32,7 @@ Nội dung chính của dự án bao gồm:
 | 1 | Doãn Thúc Định | Leader & Data Storyteller |
 | 2 | Diệp Thế Tài | Data Processing & Modeling |
 | 3 | Nguyễn Minh Sang | Visualization & Dashboard |
-| 4 | Nguyễn Sỹ Toàn | Report & Documentation |
+| 4 | Nguyễn Sỹ Toàn | Data Processing & Modeling |
 
 ---
 
