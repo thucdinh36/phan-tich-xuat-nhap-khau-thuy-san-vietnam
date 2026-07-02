@@ -1,0 +1,55 @@
+Year,Trade_Flow,Partner_Country,HS_Code,Product_Description,Weight_KG,Value_USD
+2015,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1042916010.0
+2015,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,2264255.0,10699671.0
+2015,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",1411764.0,13690622.0
+2015,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,4838124426.0
+2015,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,86292818.0,408568581.0
+2015,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",117443496.0,1299403572.0
+2016,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1088047406.54
+2016,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,2625799.684,11645818.24
+2016,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",1442014.299,11710725.25
+2016,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,5184388211.19
+2016,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,97574859.921,440573917.71
+2016,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",136604121.259,1411059151.4
+2017,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1386235620.4
+2017,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,4616623.632,21376776.5
+2017,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",4344589.782,31970312.6
+2017,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,6141701246.8
+2017,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,99438337.448,518189413.7
+2017,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",154133070.708,1624845192.4
+2018,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1522080124.83
+2018,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,4740663.835,25509479.66
+2018,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",1370863.486,6745519.37
+2018,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,6407587808.77
+2018,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,102957516.849,551139567.46
+2018,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",140120089.088,1664550476.93
+2019,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1572080939.67
+2019,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,4824396.878,23865041.16
+2019,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",2066297.214,9520553.53
+2019,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,6205145147.47
+2019,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,122387493.332,676134745.32
+2019,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",138360916.911,1505469498.39
+2020,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1594193516.47
+2020,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,5841219.473,28797427.301
+2020,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",1486977.853,9249383.946
+2020,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,5771043979.475
+2020,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,128607796.462,717544717.031
+2020,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",164665864.591,1764196663.133
+2021,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,1796742074.841
+2021,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,7096790.45,34754864.481
+2021,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",2098194.461,14112321.375
+2021,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,6304923224.261
+2021,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,129659711.957,662973952.11
+2021,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",0.0,1798111518.809
+2022,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,2382894326.638
+2022,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,8453978.284,50762133.629
+2022,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",4708497.745,35167052.429
+2022,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,7979123881.104
+2022,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,152500791.696,758520854.542
+2022,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",0.0,2026314169.623
+2023,Import,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,2245333613.522
+2023,Import,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,10743412.728,62584122.098
+2023,Import,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",5171915.526,37219484.18
+2023,Export,World,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0,6463382524.355
+2023,Export,World,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,127101786.552,780098296.341
+2023,Export,World,1605,"Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved",0.0,1571395310.981
